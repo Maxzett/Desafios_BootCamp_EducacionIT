@@ -1,0 +1,29 @@
+@charset 'UTF-8';
+@import url('https://fonts.cdnfonts.com/css/font');
+html{
+    background-color: rgb(54, 54, 61);
+    color: aliceblue;
+}
+
+.Header .section .article .header h1{
+    background-color: wheat;
+    color: grey;
+    text-align: center;
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+
+    margin: 2rem;
+}
+h1{
+   font-family: Impact, Charcoal, sans-serif  ;
+}
+
+h3{
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif ;
+}
+p{
+    font-family: 'Arial', 'Gadget', sans-serif;
+}
+img{
+    border: 6px solid;
+}

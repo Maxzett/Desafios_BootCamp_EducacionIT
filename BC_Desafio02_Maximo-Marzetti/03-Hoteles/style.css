@@ -1,0 +1,96 @@
+@charset 'UTF-8';
+
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+*{
+    margin: 10px;
+}
+h2 {
+    color:mediumvioletred;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 36px;
+}
+h3 {
+    font-size: 24px;
+    letter-spacing: 10px;
+    color:mediumvioletred;
+}
+p{
+    color: steelblue;
+}
+/* Header */
+.Header{
+    display: flex;
+    justify-content: center;
+}
+.Header picture img{
+    width: 300px;
+    height: auto;
+}
+
+/* Main */
+.hotel-1 {
+    float: right;
+}
+.hotel-1 img{
+    height: 250px;
+    border: 10px solid  steelblue;
+    margin: 10px;
+}
+
+.hotel-2 {
+    float: left;
+}
+.hotel-2 img {
+    height: 250px;
+    border: 10px solid  steelblue;
+    margin: 10px;
+}
+.hotel-3 {
+    float: right;
+}
+.hotel-3 img {
+    height: 250px;
+    border: 10px solid  steelblue;
+    margin: 10px; 
+}
+.mickey-minnie {
+    display: flex;
+    justify-content: center;
+    
+}
+.mickey-minnie img {
+    border: 10px solid  steelblue;
+    width: 100%;
+    height: auto;
+}
+
+
+/* .Main{
+    display: flex;
+    justify-content: center;
+}
+.Main .section{
+    display: flex;
+    flex-direction: column;
+}
+.Main .section header{
+    text-align: center;
+}
+.Main .section article{
+    display: flex;
+    text-align: justify;
+}
+.Main .section article p{
+    float: left;
+}
+.Main .section article img{
+    float: right;
+}
+
+}
+.hotel-1 p{
+    float: left;
+} */
